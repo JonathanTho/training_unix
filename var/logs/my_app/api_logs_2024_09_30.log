@@ -1,0 +1,400 @@
+2024-09-30 00:00:00 INFO  [RequestID: x5yjxa] Received PATCH /api/v1/users from IP 126.214.64.1
+2024-09-30 00:00:00 ERROR [RequestID: x5yjxa] Status=401 Unauthorized | Method=PATCH | Endpoint=/api/v1/users | ResponseTime=453ms | Error=a
+2024-09-30 00:00:00 INFO  [RequestID: a1rpm4] Received DELETE /api/v1/auth/login from IP 212.135.96.93
+2024-09-30 00:00:00 INFO  [RequestID: a1rpm4] Status=200 OK | Method=DELETE | Endpoint=/api/v1/auth/login | ResponseTime=350ms | ResponseSize=455KB
+2024-09-30 00:00:00 INFO  [RequestID: fyil49] Received POST /api/v1/auth/login from IP 85.179.107.53
+2024-09-30 00:00:00 ERROR [RequestID: fyil49] Status=403 Forbidden | Method=POST | Endpoint=/api/v1/auth/login | ResponseTime=210ms | Error=r
+2024-09-30 00:00:00 INFO  [RequestID: ovobmp] Received POST /api/v1/orders from IP 87.61.127.200
+2024-09-30 00:00:00 ERROR [RequestID: ovobmp] Status=401 Unauthorized | Method=POST | Endpoint=/api/v1/orders | ResponseTime=462ms | Error=i
+2024-09-30 00:00:00 INFO  [RequestID: m62wba] Received PUT /api/v1/auth/login from IP 136.88.146.22
+2024-09-30 00:00:00 ERROR [RequestID: m62wba] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/auth/login | ResponseTime=223ms | Error= 
+2024-09-30 00:00:00 INFO  [RequestID: s1sk45] Received PUT /api/v1/products from IP 8.192.242.248
+2024-09-30 00:00:00 ERROR [RequestID: s1sk45] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/products | ResponseTime=389ms | Error=t
+2024-09-30 00:00:00 INFO  [RequestID: tdyrv8] Received PUT /api/v1/users from IP 208.65.198.88
+2024-09-30 00:00:00 ERROR [RequestID: tdyrv8] Status=403 Forbidden | Method=PUT | Endpoint=/api/v1/users | ResponseTime=372ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: 44to3x] Received PUT /api/v1/users from IP 217.56.38.104
+2024-09-30 00:00:00 INFO  [RequestID: 44to3x] Status=200 OK | Method=PUT | Endpoint=/api/v1/users | ResponseTime=182ms | ResponseSize=67KB
+2024-09-30 00:00:00 INFO  [RequestID: ssx69b] Received POST /api/v1/users from IP 55.10.97.18
+2024-09-30 00:00:00 ERROR [RequestID: ssx69b] Status=403 Forbidden | Method=POST | Endpoint=/api/v1/users | ResponseTime=446ms | Error=o
+2024-09-30 00:00:00 INFO  [RequestID: ect1l0] Received PATCH /api/v1/auth/login from IP 237.98.175.169
+2024-09-30 00:00:00 INFO  [RequestID: ect1l0] Status=200 OK | Method=PATCH | Endpoint=/api/v1/auth/login | ResponseTime=344ms | ResponseSize=158KB
+2024-09-30 00:00:00 INFO  [RequestID: vbtcqv] Received PUT /api/v1/products from IP 45.106.130.38
+2024-09-30 00:00:00 ERROR [RequestID: vbtcqv] Status=500 Internal Server Error | Method=PUT | Endpoint=/api/v1/products | ResponseTime=71ms | Error=Undefined method `name` for nil:NilClass
+2024-09-30 00:00:00 INFO  [RequestID: f6vpos] Received GET /api/v1/products from IP 138.213.236.31
+2024-09-30 00:00:00 ERROR [RequestID: f6vpos] Status=403 Forbidden | Method=GET | Endpoint=/api/v1/products | ResponseTime=201ms | Error=e
+2024-09-30 00:00:00 INFO  [RequestID: farik2] Received GET /api/v1/products from IP 178.60.13.10
+2024-09-30 00:00:00 ERROR [RequestID: farik2] Status=500 Internal Server Error | Method=GET | Endpoint=/api/v1/products | ResponseTime=244ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: hlx05w] Received PATCH /api/v1/users from IP 13.145.8.20
+2024-09-30 00:00:00 ERROR [RequestID: hlx05w] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/users | ResponseTime=132ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: wxkz5v] Received PUT /api/v1/users from IP 62.226.239.127
+2024-09-30 00:00:00 ERROR [RequestID: wxkz5v] Status=500 Internal Server Error | Method=PUT | Endpoint=/api/v1/users | ResponseTime=63ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: tvh6p7] Received PATCH /api/v1/orders from IP 250.104.55.25
+2024-09-30 00:00:00 ERROR [RequestID: tvh6p7] Status=403 Forbidden | Method=PATCH | Endpoint=/api/v1/orders | ResponseTime=344ms | Error=i
+2024-09-30 00:00:00 INFO  [RequestID: hkyvmu] Received PUT /api/v1/orders/18/status from IP 205.30.118.100
+2024-09-30 00:00:00 ERROR [RequestID: hkyvmu] Status=403 Forbidden | Method=PUT | Endpoint=/api/v1/orders/18/status | ResponseTime=156ms | Error=m
+2024-09-30 00:00:00 INFO  [RequestID: byarsa] Received DELETE /api/v1/products from IP 91.139.51.43
+2024-09-30 00:00:00 INFO  [RequestID: byarsa] Status=200 OK | Method=DELETE | Endpoint=/api/v1/products | ResponseTime=206ms | ResponseSize=293KB
+2024-09-30 00:00:00 INFO  [RequestID: agwndp] Received PUT /api/v1/auth/login from IP 242.52.119.238
+2024-09-30 00:00:00 ERROR [RequestID: agwndp] Status=403 Forbidden | Method=PUT | Endpoint=/api/v1/auth/login | ResponseTime=137ms | Error=n
+2024-09-30 00:00:00 INFO  [RequestID: 56tn97] Received PUT /api/v1/orders from IP 217.60.188.166
+2024-09-30 00:00:00 ERROR [RequestID: 56tn97] Status=500 Internal Server Error | Method=PUT | Endpoint=/api/v1/orders | ResponseTime=215ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: pfla2v] Received PATCH /api/v1/products from IP 158.114.205.5
+2024-09-30 00:00:00 ERROR [RequestID: pfla2v] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/products | ResponseTime=99ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: 8wa7qc] Received PUT /api/v1/auth/login from IP 61.198.135.247
+2024-09-30 00:00:00 ERROR [RequestID: 8wa7qc] Status=500 Internal Server Error | Method=PUT | Endpoint=/api/v1/auth/login | ResponseTime=355ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: fayfom] Received PUT /api/v1/orders/18/status from IP 118.154.230.213
+2024-09-30 00:00:00 ERROR [RequestID: fayfom] Status=403 Forbidden | Method=PUT | Endpoint=/api/v1/orders/18/status | ResponseTime=485ms | Error=u
+2024-09-30 00:00:00 INFO  [RequestID: 7eqh4f] Received PUT /api/v1/auth/login from IP 57.32.155.23
+2024-09-30 00:00:00 ERROR [RequestID: 7eqh4f] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/auth/login | ResponseTime=174ms | Error=v
+2024-09-30 00:00:00 INFO  [RequestID: 0r25v5] Received DELETE /api/v1/users from IP 65.228.248.130
+2024-09-30 00:00:00 ERROR [RequestID: 0r25v5] Status=500 Internal Server Error | Method=DELETE | Endpoint=/api/v1/users | ResponseTime=312ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: 89olms] Received DELETE /api/v1/orders from IP 41.238.235.253
+2024-09-30 00:00:00 ERROR [RequestID: 89olms] Status=500 Internal Server Error | Method=DELETE | Endpoint=/api/v1/orders | ResponseTime=291ms | Error=Undefined method `name` for nil:NilClass
+2024-09-30 00:00:00 INFO  [RequestID: pc79gn] Received POST /api/v1/products from IP 25.61.233.14
+2024-09-30 00:00:00 INFO  [RequestID: pc79gn] Status=200 OK | Method=POST | Endpoint=/api/v1/products | ResponseTime=61ms | ResponseSize=206KB
+2024-09-30 00:00:00 INFO  [RequestID: 7xg4du] Received GET /api/v1/orders/18/status from IP 64.176.143.27
+2024-09-30 00:00:00 ERROR [RequestID: 7xg4du] Status=401 Unauthorized | Method=GET | Endpoint=/api/v1/orders/18/status | ResponseTime=243ms | Error=a
+2024-09-30 00:00:00 INFO  [RequestID: tt5nq2] Received POST /api/v1/orders from IP 3.162.50.9
+2024-09-30 00:00:00 INFO  [RequestID: tt5nq2] Status=200 OK | Method=POST | Endpoint=/api/v1/orders | ResponseTime=189ms | ResponseSize=274KB
+2024-09-30 00:00:00 INFO  [RequestID: lt1272] Received PATCH /api/v1/users from IP 172.87.58.44
+2024-09-30 00:00:00 ERROR [RequestID: lt1272] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/users | ResponseTime=247ms | Error=Database connection timeout
+2024-09-30 00:00:00 INFO  [RequestID: bt5bva] Received PATCH /api/v1/users from IP 137.254.56.154
+2024-09-30 00:00:00 ERROR [RequestID: bt5bva] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/users | ResponseTime=380ms | Error=Database connection timeout
+2024-09-30 00:00:00 INFO  [RequestID: hgj5pr] Received POST /api/v1/users from IP 192.86.228.33
+2024-09-30 00:00:00 ERROR [RequestID: hgj5pr] Status=401 Unauthorized | Method=POST | Endpoint=/api/v1/users | ResponseTime=122ms | Error=d
+2024-09-30 00:00:00 INFO  [RequestID: tlfiae] Received GET /api/v1/orders/18/status from IP 47.208.213.226
+2024-09-30 00:00:00 INFO  [RequestID: tlfiae] Status=200 OK | Method=GET | Endpoint=/api/v1/orders/18/status | ResponseTime=102ms | ResponseSize=109KB
+2024-09-30 00:00:00 INFO  [RequestID: njtgth] Received POST /api/v1/orders/18/status from IP 235.183.20.193
+2024-09-30 00:00:00 ERROR [RequestID: njtgth] Status=401 Unauthorized | Method=POST | Endpoint=/api/v1/orders/18/status | ResponseTime=452ms | Error=l
+2024-09-30 00:00:00 INFO  [RequestID: ufdcsb] Received POST /api/v1/products from IP 245.243.171.146
+2024-09-30 00:00:00 INFO  [RequestID: ufdcsb] Status=200 OK | Method=POST | Endpoint=/api/v1/products | ResponseTime=321ms | ResponseSize=243KB
+2024-09-30 00:00:00 INFO  [RequestID: 1umabf] Received POST /api/v1/products from IP 16.113.75.223
+2024-09-30 00:00:00 ERROR [RequestID: 1umabf] Status=401 Unauthorized | Method=POST | Endpoint=/api/v1/products | ResponseTime=291ms | Error=i
+2024-09-30 00:00:00 INFO  [RequestID: gy1fvb] Received POST /api/v1/products from IP 23.222.214.85
+2024-09-30 00:00:00 ERROR [RequestID: gy1fvb] Status=500 Internal Server Error | Method=POST | Endpoint=/api/v1/products | ResponseTime=413ms | Error=Undefined method `name` for nil:NilClass
+2024-09-30 00:00:00 INFO  [RequestID: 59l5rk] Received GET /api/v1/auth/login from IP 244.71.246.253
+2024-09-30 00:00:00 ERROR [RequestID: 59l5rk] Status=403 Forbidden | Method=GET | Endpoint=/api/v1/auth/login | ResponseTime=374ms | Error= 
+2024-09-30 00:00:00 INFO  [RequestID: uiacl5] Received PUT /api/v1/products from IP 120.137.6.53
+2024-09-30 00:00:00 INFO  [RequestID: uiacl5] Status=200 OK | Method=PUT | Endpoint=/api/v1/products | ResponseTime=293ms | ResponseSize=469KB
+2024-09-30 00:00:00 INFO  [RequestID: mnlibn] Received POST /api/v1/auth/login from IP 23.161.244.89
+2024-09-30 00:00:00 ERROR [RequestID: mnlibn] Status=401 Unauthorized | Method=POST | Endpoint=/api/v1/auth/login | ResponseTime=267ms | Error=e
+2024-09-30 00:00:00 INFO  [RequestID: v6paph] Received PATCH /api/v1/products from IP 170.23.76.177
+2024-09-30 00:00:00 ERROR [RequestID: v6paph] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/products | ResponseTime=66ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: o6vkk9] Received GET /api/v1/orders/18/status from IP 243.62.105.130
+2024-09-30 00:00:00 ERROR [RequestID: o6vkk9] Status=500 Internal Server Error | Method=GET | Endpoint=/api/v1/orders/18/status | ResponseTime=438ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: yyd3fw] Received POST /api/v1/orders/18/status from IP 33.217.137.206
+2024-09-30 00:00:00 INFO  [RequestID: yyd3fw] Status=200 OK | Method=POST | Endpoint=/api/v1/orders/18/status | ResponseTime=297ms | ResponseSize=244KB
+2024-09-30 00:00:00 INFO  [RequestID: ou9hs4] Received DELETE /api/v1/auth/login from IP 147.63.134.7
+2024-09-30 00:00:00 ERROR [RequestID: ou9hs4] Status=500 Internal Server Error | Method=DELETE | Endpoint=/api/v1/auth/login | ResponseTime=80ms | Error=Undefined method `name` for nil:NilClass
+2024-09-30 00:00:00 INFO  [RequestID: yfqep8] Received DELETE /api/v1/users from IP 165.189.11.127
+2024-09-30 00:00:00 ERROR [RequestID: yfqep8] Status=403 Forbidden | Method=DELETE | Endpoint=/api/v1/users | ResponseTime=265ms | Error=e
+2024-09-30 00:00:00 INFO  [RequestID: 18yzt3] Received PUT /api/v1/orders/18/status from IP 81.168.16.49
+2024-09-30 00:00:00 INFO  [RequestID: 18yzt3] Status=200 OK | Method=PUT | Endpoint=/api/v1/orders/18/status | ResponseTime=81ms | ResponseSize=323KB
+2024-09-30 00:00:00 INFO  [RequestID: wn6elq] Received PUT /api/v1/orders from IP 108.1.245.1
+2024-09-30 00:00:00 ERROR [RequestID: wn6elq] Status=500 Internal Server Error | Method=PUT | Endpoint=/api/v1/orders | ResponseTime=468ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: ghwsy3] Received PATCH /api/v1/orders/18/status from IP 246.0.137.60
+2024-09-30 00:00:00 ERROR [RequestID: ghwsy3] Status=403 Forbidden | Method=PATCH | Endpoint=/api/v1/orders/18/status | ResponseTime=299ms | Error=d
+2024-09-30 00:00:00 INFO  [RequestID: qumn4p] Received POST /api/v1/users from IP 224.93.235.115
+2024-09-30 00:00:00 ERROR [RequestID: qumn4p] Status=403 Forbidden | Method=POST | Endpoint=/api/v1/users | ResponseTime=458ms | Error=e
+2024-09-30 00:00:00 INFO  [RequestID: mb5rli] Received POST /api/v1/orders from IP 234.53.142.169
+2024-09-30 00:00:00 ERROR [RequestID: mb5rli] Status=500 Internal Server Error | Method=POST | Endpoint=/api/v1/orders | ResponseTime=121ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: ba2izb] Received PATCH /api/v1/orders from IP 137.109.49.142
+2024-09-30 00:00:00 INFO  [RequestID: ba2izb] Status=200 OK | Method=PATCH | Endpoint=/api/v1/orders | ResponseTime=196ms | ResponseSize=302KB
+2024-09-30 00:00:00 INFO  [RequestID: 1agwjo] Received DELETE /api/v1/orders from IP 100.39.76.9
+2024-09-30 00:00:00 ERROR [RequestID: 1agwjo] Status=403 Forbidden | Method=DELETE | Endpoint=/api/v1/orders | ResponseTime=203ms | Error=o
+2024-09-30 00:00:00 INFO  [RequestID: i03316] Received DELETE /api/v1/products from IP 213.42.108.214
+2024-09-30 00:00:00 ERROR [RequestID: i03316] Status=500 Internal Server Error | Method=DELETE | Endpoint=/api/v1/products | ResponseTime=208ms | Error=Database connection timeout
+2024-09-30 00:00:00 INFO  [RequestID: ha17j4] Received GET /api/v1/orders from IP 181.183.120.59
+2024-09-30 00:00:00 INFO  [RequestID: ha17j4] Status=200 OK | Method=GET | Endpoint=/api/v1/orders | ResponseTime=398ms | ResponseSize=197KB
+2024-09-30 00:00:00 INFO  [RequestID: l2qo8s] Received GET /api/v1/orders/18/status from IP 64.176.6.128
+2024-09-30 00:00:00 INFO  [RequestID: l2qo8s] Status=200 OK | Method=GET | Endpoint=/api/v1/orders/18/status | ResponseTime=422ms | ResponseSize=233KB
+2024-09-30 00:00:00 INFO  [RequestID: gaz6ra] Received PUT /api/v1/auth/login from IP 70.136.98.118
+2024-09-30 00:00:00 ERROR [RequestID: gaz6ra] Status=500 Internal Server Error | Method=PUT | Endpoint=/api/v1/auth/login | ResponseTime=229ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: wbmzyv] Received PATCH /api/v1/orders from IP 237.72.224.51
+2024-09-30 00:00:00 INFO  [RequestID: wbmzyv] Status=200 OK | Method=PATCH | Endpoint=/api/v1/orders | ResponseTime=261ms | ResponseSize=286KB
+2024-09-30 00:00:00 INFO  [RequestID: ju5w85] Received POST /api/v1/products from IP 192.16.10.175
+2024-09-30 00:00:00 ERROR [RequestID: ju5w85] Status=401 Unauthorized | Method=POST | Endpoint=/api/v1/products | ResponseTime=373ms | Error=i
+2024-09-30 00:00:00 INFO  [RequestID: c3d2gm] Received PUT /api/v1/orders/18/status from IP 20.69.0.96
+2024-09-30 00:00:00 ERROR [RequestID: c3d2gm] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/orders/18/status | ResponseTime=195ms | Error=r
+2024-09-30 00:00:00 INFO  [RequestID: 1cmjqd] Received PATCH /api/v1/products from IP 158.11.47.108
+2024-09-30 00:00:00 ERROR [RequestID: 1cmjqd] Status=403 Forbidden | Method=PATCH | Endpoint=/api/v1/products | ResponseTime=77ms | Error=P
+2024-09-30 00:00:00 INFO  [RequestID: 9753gq] Received PATCH /api/v1/users from IP 213.170.17.49
+2024-09-30 00:00:00 ERROR [RequestID: 9753gq] Status=403 Forbidden | Method=PATCH | Endpoint=/api/v1/users | ResponseTime=167ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: rsbi1x] Received PUT /api/v1/users from IP 241.195.27.203
+2024-09-30 00:00:00 ERROR [RequestID: rsbi1x] Status=500 Internal Server Error | Method=PUT | Endpoint=/api/v1/users | ResponseTime=150ms | Error=Undefined method `name` for nil:NilClass
+2024-09-30 00:00:00 INFO  [RequestID: k4olsz] Received PATCH /api/v1/orders/18/status from IP 34.129.125.250
+2024-09-30 00:00:00 ERROR [RequestID: k4olsz] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/orders/18/status | ResponseTime=153ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: bhqp1d] Received PATCH /api/v1/orders from IP 63.109.162.170
+2024-09-30 00:00:00 INFO  [RequestID: bhqp1d] Status=200 OK | Method=PATCH | Endpoint=/api/v1/orders | ResponseTime=344ms | ResponseSize=180KB
+2024-09-30 00:00:00 INFO  [RequestID: gtkm70] Received PATCH /api/v1/auth/login from IP 159.198.165.70
+2024-09-30 00:00:00 INFO  [RequestID: gtkm70] Status=200 OK | Method=PATCH | Endpoint=/api/v1/auth/login | ResponseTime=261ms | ResponseSize=188KB
+2024-09-30 00:00:00 INFO  [RequestID: w61u0n] Received DELETE /api/v1/auth/login from IP 53.229.209.180
+2024-09-30 00:00:00 ERROR [RequestID: w61u0n] Status=500 Internal Server Error | Method=DELETE | Endpoint=/api/v1/auth/login | ResponseTime=410ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: 7031vo] Received GET /api/v1/orders/18/status from IP 23.41.50.206
+2024-09-30 00:00:00 ERROR [RequestID: 7031vo] Status=401 Unauthorized | Method=GET | Endpoint=/api/v1/orders/18/status | ResponseTime=387ms | Error=l
+2024-09-30 00:00:00 INFO  [RequestID: wt118f] Received GET /api/v1/users from IP 210.122.152.6
+2024-09-30 00:00:00 ERROR [RequestID: wt118f] Status=500 Internal Server Error | Method=GET | Endpoint=/api/v1/users | ResponseTime=497ms | Error=Database connection timeout
+2024-09-30 00:00:00 INFO  [RequestID: 989tmu] Received POST /api/v1/auth/login from IP 194.5.37.88
+2024-09-30 00:00:00 INFO  [RequestID: 989tmu] Status=200 OK | Method=POST | Endpoint=/api/v1/auth/login | ResponseTime=303ms | ResponseSize=355KB
+2024-09-30 00:00:00 INFO  [RequestID: actlh5] Received PUT /api/v1/auth/login from IP 101.67.31.250
+2024-09-30 00:00:00 INFO  [RequestID: actlh5] Status=200 OK | Method=PUT | Endpoint=/api/v1/auth/login | ResponseTime=257ms | ResponseSize=417KB
+2024-09-30 00:00:00 INFO  [RequestID: p5zk1j] Received DELETE /api/v1/orders/18/status from IP 100.124.131.46
+2024-09-30 00:00:00 INFO  [RequestID: p5zk1j] Status=200 OK | Method=DELETE | Endpoint=/api/v1/orders/18/status | ResponseTime=481ms | ResponseSize=110KB
+2024-09-30 00:00:00 INFO  [RequestID: ks4l8g] Received GET /api/v1/orders/18/status from IP 55.114.246.195
+2024-09-30 00:00:00 INFO  [RequestID: ks4l8g] Status=200 OK | Method=GET | Endpoint=/api/v1/orders/18/status | ResponseTime=494ms | ResponseSize=375KB
+2024-09-30 00:00:00 INFO  [RequestID: kxgrgv] Received PUT /api/v1/orders from IP 107.219.244.199
+2024-09-30 00:00:00 ERROR [RequestID: kxgrgv] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/orders | ResponseTime=280ms | Error=c
+2024-09-30 00:00:00 INFO  [RequestID: z6jfgz] Received PATCH /api/v1/orders from IP 84.181.22.28
+2024-09-30 00:00:00 ERROR [RequestID: z6jfgz] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/orders | ResponseTime=204ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: pnqc4i] Received PATCH /api/v1/users from IP 225.146.230.20
+2024-09-30 00:00:00 ERROR [RequestID: pnqc4i] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/users | ResponseTime=411ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: dzjf0b] Received PATCH /api/v1/orders from IP 41.93.216.38
+2024-09-30 00:00:00 ERROR [RequestID: dzjf0b] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/orders | ResponseTime=326ms | Error=Undefined method `name` for nil:NilClass
+2024-09-30 00:00:00 INFO  [RequestID: vcu4td] Received PATCH /api/v1/orders/18/status from IP 124.186.217.0
+2024-09-30 00:00:00 ERROR [RequestID: vcu4td] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/orders/18/status | ResponseTime=104ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: exq4gm] Received GET /api/v1/users from IP 163.34.167.60
+2024-09-30 00:00:00 ERROR [RequestID: exq4gm] Status=500 Internal Server Error | Method=GET | Endpoint=/api/v1/users | ResponseTime=292ms | Error=Database connection timeout
+2024-09-30 00:00:00 INFO  [RequestID: 6n36px] Received GET /api/v1/orders/18/status from IP 24.168.155.171
+2024-09-30 00:00:00 ERROR [RequestID: 6n36px] Status=500 Internal Server Error | Method=GET | Endpoint=/api/v1/orders/18/status | ResponseTime=83ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: kswjvo] Received GET /api/v1/orders/18/status from IP 189.112.98.158
+2024-09-30 00:00:00 ERROR [RequestID: kswjvo] Status=500 Internal Server Error | Method=GET | Endpoint=/api/v1/orders/18/status | ResponseTime=446ms | Error=Undefined method `name` for nil:NilClass
+2024-09-30 00:00:00 INFO  [RequestID: bxt02y] Received PUT /api/v1/products from IP 84.79.16.199
+2024-09-30 00:00:00 ERROR [RequestID: bxt02y] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/products | ResponseTime=425ms | Error=n
+2024-09-30 00:00:00 INFO  [RequestID: 764r9e] Received PATCH /api/v1/orders from IP 39.38.17.58
+2024-09-30 00:00:00 ERROR [RequestID: 764r9e] Status=403 Forbidden | Method=PATCH | Endpoint=/api/v1/orders | ResponseTime=118ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: va8l5t] Received PUT /api/v1/products from IP 141.219.9.212
+2024-09-30 00:00:00 ERROR [RequestID: va8l5t] Status=403 Forbidden | Method=PUT | Endpoint=/api/v1/products | ResponseTime=491ms | Error=d
+2024-09-30 00:00:00 INFO  [RequestID: 1t6mqy] Received POST /api/v1/users from IP 244.46.192.206
+2024-09-30 00:00:00 ERROR [RequestID: 1t6mqy] Status=500 Internal Server Error | Method=POST | Endpoint=/api/v1/users | ResponseTime=137ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: q1z5ui] Received PUT /api/v1/orders/18/status from IP 252.175.50.57
+2024-09-30 00:00:00 ERROR [RequestID: q1z5ui] Status=500 Internal Server Error | Method=PUT | Endpoint=/api/v1/orders/18/status | ResponseTime=90ms | Error=Database connection timeout
+2024-09-30 00:00:00 INFO  [RequestID: at46eh] Received POST /api/v1/users from IP 32.225.172.106
+2024-09-30 00:00:00 ERROR [RequestID: at46eh] Status=500 Internal Server Error | Method=POST | Endpoint=/api/v1/users | ResponseTime=207ms | Error=Database connection timeout
+2024-09-30 00:00:00 INFO  [RequestID: r60be7] Received PUT /api/v1/orders from IP 8.70.1.199
+2024-09-30 00:00:00 ERROR [RequestID: r60be7] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/orders | ResponseTime=260ms | Error=d
+2024-09-30 00:00:00 INFO  [RequestID: r8u4ir] Received GET /api/v1/auth/login from IP 209.253.85.48
+2024-09-30 00:00:00 ERROR [RequestID: r8u4ir] Status=401 Unauthorized | Method=GET | Endpoint=/api/v1/auth/login | ResponseTime=79ms | Error=l
+2024-09-30 00:00:00 INFO  [RequestID: yszu4g] Received PUT /api/v1/auth/login from IP 163.75.235.154
+2024-09-30 00:00:00 INFO  [RequestID: yszu4g] Status=200 OK | Method=PUT | Endpoint=/api/v1/auth/login | ResponseTime=410ms | ResponseSize=427KB
+2024-09-30 00:00:00 INFO  [RequestID: xmhw1d] Received PATCH /api/v1/users from IP 17.223.73.222
+2024-09-30 00:00:00 ERROR [RequestID: xmhw1d] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/users | ResponseTime=250ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: rlqrrq] Received POST /api/v1/auth/login from IP 2.196.167.110
+2024-09-30 00:00:00 INFO  [RequestID: rlqrrq] Status=200 OK | Method=POST | Endpoint=/api/v1/auth/login | ResponseTime=137ms | ResponseSize=179KB
+2024-09-30 00:00:00 INFO  [RequestID: 57cnrk] Received PUT /api/v1/users from IP 114.227.32.66
+2024-09-30 00:00:00 ERROR [RequestID: 57cnrk] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/users | ResponseTime=208ms | Error=e
+2024-09-30 00:00:00 INFO  [RequestID: ny3rva] Received DELETE /api/v1/orders from IP 221.70.244.28
+2024-09-30 00:00:00 ERROR [RequestID: ny3rva] Status=401 Unauthorized | Method=DELETE | Endpoint=/api/v1/orders | ResponseTime=384ms | Error=I
+2024-09-30 00:00:00 INFO  [RequestID: stgdu5] Received PUT /api/v1/orders/18/status from IP 98.104.133.60
+2024-09-30 00:00:00 ERROR [RequestID: stgdu5] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/orders/18/status | ResponseTime=158ms | Error= 
+2024-09-30 00:00:00 INFO  [RequestID: 7r7ebk] Received DELETE /api/v1/users from IP 81.132.90.182
+2024-09-30 00:00:00 ERROR [RequestID: 7r7ebk] Status=401 Unauthorized | Method=DELETE | Endpoint=/api/v1/users | ResponseTime=194ms | Error=n
+2024-09-30 00:00:00 INFO  [RequestID: mf0pmr] Received GET /api/v1/products from IP 112.244.138.45
+2024-09-30 00:00:00 ERROR [RequestID: mf0pmr] Status=403 Forbidden | Method=GET | Endpoint=/api/v1/products | ResponseTime=245ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: sy28wk] Received DELETE /api/v1/products from IP 224.71.193.74
+2024-09-30 00:00:00 ERROR [RequestID: sy28wk] Status=401 Unauthorized | Method=DELETE | Endpoint=/api/v1/products | ResponseTime=355ms | Error= 
+2024-09-30 00:00:00 INFO  [RequestID: nyxpgv] Received PATCH /api/v1/orders from IP 221.154.127.187
+2024-09-30 00:00:00 ERROR [RequestID: nyxpgv] Status=403 Forbidden | Method=PATCH | Endpoint=/api/v1/orders | ResponseTime=474ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: wjgcsy] Received PUT /api/v1/auth/login from IP 222.209.252.103
+2024-09-30 00:00:00 ERROR [RequestID: wjgcsy] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/auth/login | ResponseTime=452ms | Error=d
+2024-09-30 00:00:00 INFO  [RequestID: k5ebgy] Received PUT /api/v1/products from IP 75.121.0.145
+2024-09-30 00:00:00 ERROR [RequestID: k5ebgy] Status=500 Internal Server Error | Method=PUT | Endpoint=/api/v1/products | ResponseTime=237ms | Error=Undefined method `name` for nil:NilClass
+2024-09-30 00:00:00 INFO  [RequestID: 6sddgl] Received PATCH /api/v1/auth/login from IP 195.135.186.170
+2024-09-30 00:00:00 ERROR [RequestID: 6sddgl] Status=401 Unauthorized | Method=PATCH | Endpoint=/api/v1/auth/login | ResponseTime=385ms | Error=d
+2024-09-30 00:00:00 INFO  [RequestID: ywuefx] Received PATCH /api/v1/orders/18/status from IP 21.194.30.228
+2024-09-30 00:00:00 ERROR [RequestID: ywuefx] Status=403 Forbidden | Method=PATCH | Endpoint=/api/v1/orders/18/status | ResponseTime=65ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: efun7w] Received PATCH /api/v1/orders from IP 26.133.241.97
+2024-09-30 00:00:00 ERROR [RequestID: efun7w] Status=401 Unauthorized | Method=PATCH | Endpoint=/api/v1/orders | ResponseTime=289ms | Error=r
+2024-09-30 00:00:00 INFO  [RequestID: 9w0zhm] Received PATCH /api/v1/users from IP 219.52.239.47
+2024-09-30 00:00:00 ERROR [RequestID: 9w0zhm] Status=401 Unauthorized | Method=PATCH | Endpoint=/api/v1/users | ResponseTime=366ms | Error=r
+2024-09-30 00:00:00 INFO  [RequestID: qeuay4] Received PUT /api/v1/auth/login from IP 35.221.105.188
+2024-09-30 00:00:00 ERROR [RequestID: qeuay4] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/auth/login | ResponseTime=128ms | Error=a
+2024-09-30 00:00:00 INFO  [RequestID: x0a8im] Received POST /api/v1/orders from IP 62.200.36.30
+2024-09-30 00:00:00 ERROR [RequestID: x0a8im] Status=500 Internal Server Error | Method=POST | Endpoint=/api/v1/orders | ResponseTime=115ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: t0939o] Received POST /api/v1/products from IP 140.207.74.176
+2024-09-30 00:00:00 ERROR [RequestID: t0939o] Status=401 Unauthorized | Method=POST | Endpoint=/api/v1/products | ResponseTime=496ms | Error= 
+2024-09-30 00:00:00 INFO  [RequestID: 27e8k5] Received POST /api/v1/users from IP 90.173.214.101
+2024-09-30 00:00:00 ERROR [RequestID: 27e8k5] Status=500 Internal Server Error | Method=POST | Endpoint=/api/v1/users | ResponseTime=234ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: f6wmka] Received PUT /api/v1/products from IP 250.82.47.161
+2024-09-30 00:00:00 ERROR [RequestID: f6wmka] Status=500 Internal Server Error | Method=PUT | Endpoint=/api/v1/products | ResponseTime=448ms | Error=Database connection timeout
+2024-09-30 00:00:00 INFO  [RequestID: p5lyaj] Received GET /api/v1/orders from IP 220.227.21.119
+2024-09-30 00:00:00 INFO  [RequestID: p5lyaj] Status=200 OK | Method=GET | Endpoint=/api/v1/orders | ResponseTime=294ms | ResponseSize=370KB
+2024-09-30 00:00:00 INFO  [RequestID: z1w6pw] Received POST /api/v1/products from IP 108.103.209.174
+2024-09-30 00:00:00 ERROR [RequestID: z1w6pw] Status=403 Forbidden | Method=POST | Endpoint=/api/v1/products | ResponseTime=196ms | Error=r
+2024-09-30 00:00:00 INFO  [RequestID: 7zggw7] Received DELETE /api/v1/users from IP 59.54.235.58
+2024-09-30 00:00:00 ERROR [RequestID: 7zggw7] Status=500 Internal Server Error | Method=DELETE | Endpoint=/api/v1/users | ResponseTime=291ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: xeyeao] Received DELETE /api/v1/users from IP 234.169.84.130
+2024-09-30 00:00:00 ERROR [RequestID: xeyeao] Status=401 Unauthorized | Method=DELETE | Endpoint=/api/v1/users | ResponseTime=279ms | Error=n
+2024-09-30 00:00:00 INFO  [RequestID: mo6ooy] Received GET /api/v1/orders from IP 26.54.217.139
+2024-09-30 00:00:00 ERROR [RequestID: mo6ooy] Status=500 Internal Server Error | Method=GET | Endpoint=/api/v1/orders | ResponseTime=286ms | Error=Undefined method `name` for nil:NilClass
+2024-09-30 00:00:00 INFO  [RequestID: w10ln2] Received POST /api/v1/auth/login from IP 140.249.125.94
+2024-09-30 00:00:00 ERROR [RequestID: w10ln2] Status=500 Internal Server Error | Method=POST | Endpoint=/api/v1/auth/login | ResponseTime=176ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: zmx1a8] Received POST /api/v1/auth/login from IP 156.211.90.66
+2024-09-30 00:00:00 ERROR [RequestID: zmx1a8] Status=500 Internal Server Error | Method=POST | Endpoint=/api/v1/auth/login | ResponseTime=284ms | Error=Undefined method `name` for nil:NilClass
+2024-09-30 00:00:00 INFO  [RequestID: 79p8iu] Received POST /api/v1/users from IP 59.132.65.145
+2024-09-30 00:00:00 ERROR [RequestID: 79p8iu] Status=401 Unauthorized | Method=POST | Endpoint=/api/v1/users | ResponseTime=442ms | Error=n
+2024-09-30 00:00:00 INFO  [RequestID: 95yi1d] Received POST /api/v1/orders from IP 116.109.36.173
+2024-09-30 00:00:00 INFO  [RequestID: 95yi1d] Status=200 OK | Method=POST | Endpoint=/api/v1/orders | ResponseTime=339ms | ResponseSize=362KB
+2024-09-30 00:00:00 INFO  [RequestID: ps5gu1] Received PUT /api/v1/auth/login from IP 247.128.24.254
+2024-09-30 00:00:00 ERROR [RequestID: ps5gu1] Status=500 Internal Server Error | Method=PUT | Endpoint=/api/v1/auth/login | ResponseTime=353ms | Error=Database connection timeout
+2024-09-30 00:00:00 INFO  [RequestID: kx937q] Received PUT /api/v1/auth/login from IP 201.68.63.228
+2024-09-30 00:00:00 ERROR [RequestID: kx937q] Status=403 Forbidden | Method=PUT | Endpoint=/api/v1/auth/login | ResponseTime=298ms | Error=d
+2024-09-30 00:00:00 INFO  [RequestID: dnk5rp] Received DELETE /api/v1/users from IP 133.38.36.48
+2024-09-30 00:00:00 ERROR [RequestID: dnk5rp] Status=403 Forbidden | Method=DELETE | Endpoint=/api/v1/users | ResponseTime=113ms | Error=c
+2024-09-30 00:00:00 INFO  [RequestID: 9glgsk] Received GET /api/v1/products from IP 2.200.26.247
+2024-09-30 00:00:00 ERROR [RequestID: 9glgsk] Status=403 Forbidden | Method=GET | Endpoint=/api/v1/products | ResponseTime=259ms | Error=u
+2024-09-30 00:00:00 INFO  [RequestID: soyh8w] Received GET /api/v1/users from IP 20.49.11.100
+2024-09-30 00:00:00 ERROR [RequestID: soyh8w] Status=401 Unauthorized | Method=GET | Endpoint=/api/v1/users | ResponseTime=71ms | Error=i
+2024-09-30 00:00:00 INFO  [RequestID: yyc13p] Received PATCH /api/v1/orders from IP 157.37.226.162
+2024-09-30 00:00:00 INFO  [RequestID: yyc13p] Status=200 OK | Method=PATCH | Endpoint=/api/v1/orders | ResponseTime=302ms | ResponseSize=311KB
+2024-09-30 00:00:00 INFO  [RequestID: ni9dw7] Received PATCH /api/v1/auth/login from IP 49.153.53.77
+2024-09-30 00:00:00 ERROR [RequestID: ni9dw7] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/auth/login | ResponseTime=267ms | Error=Undefined method `name` for nil:NilClass
+2024-09-30 00:00:00 INFO  [RequestID: cpjxec] Received GET /api/v1/users from IP 58.197.76.223
+2024-09-30 00:00:00 ERROR [RequestID: cpjxec] Status=403 Forbidden | Method=GET | Endpoint=/api/v1/users | ResponseTime=419ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: uekgcr] Received PATCH /api/v1/products from IP 18.154.31.202
+2024-09-30 00:00:00 ERROR [RequestID: uekgcr] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/products | ResponseTime=264ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: 5jgpby] Received PUT /api/v1/users from IP 255.109.197.105
+2024-09-30 00:00:00 ERROR [RequestID: 5jgpby] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/users | ResponseTime=398ms | Error=c
+2024-09-30 00:00:00 INFO  [RequestID: fmh20k] Received DELETE /api/v1/orders/18/status from IP 125.172.83.57
+2024-09-30 00:00:00 ERROR [RequestID: fmh20k] Status=401 Unauthorized | Method=DELETE | Endpoint=/api/v1/orders/18/status | ResponseTime=249ms | Error=v
+2024-09-30 00:00:00 INFO  [RequestID: x69iqi] Received GET /api/v1/auth/login from IP 83.232.96.96
+2024-09-30 00:00:00 INFO  [RequestID: x69iqi] Status=200 OK | Method=GET | Endpoint=/api/v1/auth/login | ResponseTime=175ms | ResponseSize=213KB
+2024-09-30 00:00:00 INFO  [RequestID: 0wi0xz] Received PATCH /api/v1/users from IP 193.39.31.110
+2024-09-30 00:00:00 ERROR [RequestID: 0wi0xz] Status=403 Forbidden | Method=PATCH | Endpoint=/api/v1/users | ResponseTime=138ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: txkm5j] Received DELETE /api/v1/products from IP 216.87.141.98
+2024-09-30 00:00:00 ERROR [RequestID: txkm5j] Status=401 Unauthorized | Method=DELETE | Endpoint=/api/v1/products | ResponseTime=153ms | Error=a
+2024-09-30 00:00:00 INFO  [RequestID: fy5j7s] Received PATCH /api/v1/products from IP 36.77.20.147
+2024-09-30 00:00:00 INFO  [RequestID: fy5j7s] Status=200 OK | Method=PATCH | Endpoint=/api/v1/products | ResponseTime=293ms | ResponseSize=371KB
+2024-09-30 00:00:00 INFO  [RequestID: 2235uy] Received PUT /api/v1/users from IP 94.121.206.65
+2024-09-30 00:00:00 ERROR [RequestID: 2235uy] Status=500 Internal Server Error | Method=PUT | Endpoint=/api/v1/users | ResponseTime=58ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: 0qv7tm] Received PATCH /api/v1/products from IP 73.95.85.117
+2024-09-30 00:00:00 ERROR [RequestID: 0qv7tm] Status=403 Forbidden | Method=PATCH | Endpoint=/api/v1/products | ResponseTime=215ms | Error= 
+2024-09-30 00:00:00 INFO  [RequestID: lf24l1] Received POST /api/v1/auth/login from IP 138.189.159.121
+2024-09-30 00:00:00 ERROR [RequestID: lf24l1] Status=401 Unauthorized | Method=POST | Endpoint=/api/v1/auth/login | ResponseTime=138ms | Error=r
+2024-09-30 00:00:00 INFO  [RequestID: xbt35s] Received PUT /api/v1/products from IP 136.100.62.134
+2024-09-30 00:00:00 ERROR [RequestID: xbt35s] Status=403 Forbidden | Method=PUT | Endpoint=/api/v1/products | ResponseTime=157ms | Error=c
+2024-09-30 00:00:00 INFO  [RequestID: z0wz87] Received GET /api/v1/orders from IP 222.99.215.67
+2024-09-30 00:00:00 ERROR [RequestID: z0wz87] Status=500 Internal Server Error | Method=GET | Endpoint=/api/v1/orders | ResponseTime=212ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: b8e9rb] Received PATCH /api/v1/auth/login from IP 99.88.96.68
+2024-09-30 00:00:00 ERROR [RequestID: b8e9rb] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/auth/login | ResponseTime=276ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: 5nkb9g] Received PUT /api/v1/products from IP 39.32.121.226
+2024-09-30 00:00:00 INFO  [RequestID: 5nkb9g] Status=200 OK | Method=PUT | Endpoint=/api/v1/products | ResponseTime=145ms | ResponseSize=376KB
+2024-09-30 00:00:00 INFO  [RequestID: cxgy4k] Received POST /api/v1/products from IP 239.229.109.140
+2024-09-30 00:00:00 INFO  [RequestID: cxgy4k] Status=200 OK | Method=POST | Endpoint=/api/v1/products | ResponseTime=199ms | ResponseSize=104KB
+2024-09-30 00:00:00 INFO  [RequestID: ed3w2j] Received POST /api/v1/auth/login from IP 105.220.44.49
+2024-09-30 00:00:00 ERROR [RequestID: ed3w2j] Status=401 Unauthorized | Method=POST | Endpoint=/api/v1/auth/login | ResponseTime=435ms | Error=c
+2024-09-30 00:00:00 INFO  [RequestID: ey76ka] Received PATCH /api/v1/orders from IP 23.248.64.130
+2024-09-30 00:00:00 ERROR [RequestID: ey76ka] Status=401 Unauthorized | Method=PATCH | Endpoint=/api/v1/orders | ResponseTime=372ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: uy3q74] Received POST /api/v1/users from IP 100.19.190.81
+2024-09-30 00:00:00 INFO  [RequestID: uy3q74] Status=200 OK | Method=POST | Endpoint=/api/v1/users | ResponseTime=54ms | ResponseSize=71KB
+2024-09-30 00:00:00 INFO  [RequestID: wxa64w] Received PATCH /api/v1/auth/login from IP 81.237.14.104
+2024-09-30 00:00:00 ERROR [RequestID: wxa64w] Status=403 Forbidden | Method=PATCH | Endpoint=/api/v1/auth/login | ResponseTime=162ms | Error=r
+2024-09-30 00:00:00 INFO  [RequestID: g03yj3] Received DELETE /api/v1/users from IP 234.128.254.73
+2024-09-30 00:00:00 ERROR [RequestID: g03yj3] Status=403 Forbidden | Method=DELETE | Endpoint=/api/v1/users | ResponseTime=261ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: nlm8ka] Received PUT /api/v1/orders/18/status from IP 216.133.113.249
+2024-09-30 00:00:00 ERROR [RequestID: nlm8ka] Status=403 Forbidden | Method=PUT | Endpoint=/api/v1/orders/18/status | ResponseTime=392ms | Error=d
+2024-09-30 00:00:00 INFO  [RequestID: l5f8te] Received DELETE /api/v1/orders/18/status from IP 188.65.23.195
+2024-09-30 00:00:00 ERROR [RequestID: l5f8te] Status=401 Unauthorized | Method=DELETE | Endpoint=/api/v1/orders/18/status | ResponseTime=401ms | Error=n
+2024-09-30 00:00:00 INFO  [RequestID: ac3kil] Received POST /api/v1/products from IP 161.193.10.95
+2024-09-30 00:00:00 ERROR [RequestID: ac3kil] Status=403 Forbidden | Method=POST | Endpoint=/api/v1/products | ResponseTime=404ms | Error=m
+2024-09-30 00:00:00 INFO  [RequestID: wqf2hs] Received POST /api/v1/users from IP 130.37.238.153
+2024-09-30 00:00:00 INFO  [RequestID: wqf2hs] Status=200 OK | Method=POST | Endpoint=/api/v1/users | ResponseTime=319ms | ResponseSize=125KB
+2024-09-30 00:00:00 INFO  [RequestID: b0lkg2] Received PUT /api/v1/orders/18/status from IP 108.217.184.78
+2024-09-30 00:00:00 ERROR [RequestID: b0lkg2] Status=403 Forbidden | Method=PUT | Endpoint=/api/v1/orders/18/status | ResponseTime=263ms | Error=f
+2024-09-30 00:00:00 INFO  [RequestID: fa3dm1] Received DELETE /api/v1/users from IP 47.66.240.179
+2024-09-30 00:00:00 ERROR [RequestID: fa3dm1] Status=403 Forbidden | Method=DELETE | Endpoint=/api/v1/users | ResponseTime=263ms | Error= 
+2024-09-30 00:00:00 INFO  [RequestID: ekzl58] Received GET /api/v1/orders from IP 66.229.152.97
+2024-09-30 00:00:00 INFO  [RequestID: ekzl58] Status=200 OK | Method=GET | Endpoint=/api/v1/orders | ResponseTime=87ms | ResponseSize=401KB
+2024-09-30 00:00:00 INFO  [RequestID: 5uee79] Received PUT /api/v1/products from IP 137.152.128.11
+2024-09-30 00:00:00 ERROR [RequestID: 5uee79] Status=403 Forbidden | Method=PUT | Endpoint=/api/v1/products | ResponseTime=105ms | Error=e
+2024-09-30 00:00:00 INFO  [RequestID: gnda0f] Received PUT /api/v1/auth/login from IP 174.94.157.145
+2024-09-30 00:00:00 INFO  [RequestID: gnda0f] Status=200 OK | Method=PUT | Endpoint=/api/v1/auth/login | ResponseTime=88ms | ResponseSize=393KB
+2024-09-30 00:00:00 INFO  [RequestID: ydt8rp] Received DELETE /api/v1/products from IP 29.211.142.225
+2024-09-30 00:00:00 ERROR [RequestID: ydt8rp] Status=403 Forbidden | Method=DELETE | Endpoint=/api/v1/products | ResponseTime=65ms | Error=e
+2024-09-30 00:00:00 INFO  [RequestID: uf51bu] Received GET /api/v1/auth/login from IP 136.6.35.244
+2024-09-30 00:00:00 ERROR [RequestID: uf51bu] Status=401 Unauthorized | Method=GET | Endpoint=/api/v1/auth/login | ResponseTime=312ms | Error=a
+2024-09-30 00:00:00 INFO  [RequestID: 80qupo] Received GET /api/v1/products from IP 109.47.220.225
+2024-09-30 00:00:00 ERROR [RequestID: 80qupo] Status=500 Internal Server Error | Method=GET | Endpoint=/api/v1/products | ResponseTime=295ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: d4fpsl] Received PATCH /api/v1/products from IP 255.239.246.64
+2024-09-30 00:00:00 ERROR [RequestID: d4fpsl] Status=403 Forbidden | Method=PATCH | Endpoint=/api/v1/products | ResponseTime=377ms | Error=m
+2024-09-30 00:00:00 INFO  [RequestID: 73o9po] Received DELETE /api/v1/products from IP 255.93.109.157
+2024-09-30 00:00:00 ERROR [RequestID: 73o9po] Status=401 Unauthorized | Method=DELETE | Endpoint=/api/v1/products | ResponseTime=407ms | Error=e
+2024-09-30 00:00:00 INFO  [RequestID: s6qzbe] Received DELETE /api/v1/users from IP 12.141.230.37
+2024-09-30 00:00:00 INFO  [RequestID: s6qzbe] Status=200 OK | Method=DELETE | Endpoint=/api/v1/users | ResponseTime=451ms | ResponseSize=228KB
+2024-09-30 00:00:00 INFO  [RequestID: bi59cn] Received DELETE /api/v1/orders from IP 199.57.127.108
+2024-09-30 00:00:00 ERROR [RequestID: bi59cn] Status=403 Forbidden | Method=DELETE | Endpoint=/api/v1/orders | ResponseTime=134ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: 4wwzhy] Received PUT /api/v1/users from IP 65.95.86.229
+2024-09-30 00:00:00 INFO  [RequestID: 4wwzhy] Status=200 OK | Method=PUT | Endpoint=/api/v1/users | ResponseTime=380ms | ResponseSize=376KB
+2024-09-30 00:00:00 INFO  [RequestID: jul8wg] Received GET /api/v1/orders from IP 30.89.98.80
+2024-09-30 00:00:00 ERROR [RequestID: jul8wg] Status=500 Internal Server Error | Method=GET | Endpoint=/api/v1/orders | ResponseTime=328ms | Error=Undefined method `name` for nil:NilClass
+2024-09-30 00:00:00 INFO  [RequestID: 1wfymj] Received DELETE /api/v1/auth/login from IP 42.82.207.146
+2024-09-30 00:00:00 ERROR [RequestID: 1wfymj] Status=500 Internal Server Error | Method=DELETE | Endpoint=/api/v1/auth/login | ResponseTime=286ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: c3ethv] Received PATCH /api/v1/orders from IP 63.115.233.70
+2024-09-30 00:00:00 ERROR [RequestID: c3ethv] Status=401 Unauthorized | Method=PATCH | Endpoint=/api/v1/orders | ResponseTime=311ms | Error=n
+2024-09-30 00:00:00 INFO  [RequestID: lm488p] Received PUT /api/v1/users from IP 9.15.225.156
+2024-09-30 00:00:00 ERROR [RequestID: lm488p] Status=403 Forbidden | Method=PUT | Endpoint=/api/v1/users | ResponseTime=368ms | Error=m
+2024-09-30 00:00:00 INFO  [RequestID: f9eevl] Received POST /api/v1/products from IP 117.146.216.130
+2024-09-30 00:00:00 INFO  [RequestID: f9eevl] Status=200 OK | Method=POST | Endpoint=/api/v1/products | ResponseTime=97ms | ResponseSize=351KB
+2024-09-30 00:00:00 INFO  [RequestID: 7xhgu1] Received GET /api/v1/orders/18/status from IP 80.143.55.122
+2024-09-30 00:00:00 INFO  [RequestID: 7xhgu1] Status=200 OK | Method=GET | Endpoint=/api/v1/orders/18/status | ResponseTime=219ms | ResponseSize=382KB
+2024-09-30 00:00:00 INFO  [RequestID: e4zvlp] Received POST /api/v1/orders from IP 18.218.156.92
+2024-09-30 00:00:00 ERROR [RequestID: e4zvlp] Status=500 Internal Server Error | Method=POST | Endpoint=/api/v1/orders | ResponseTime=466ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: qgbpgy] Received GET /api/v1/users from IP 80.73.243.12
+2024-09-30 00:00:00 ERROR [RequestID: qgbpgy] Status=500 Internal Server Error | Method=GET | Endpoint=/api/v1/users | ResponseTime=68ms | Error=Database connection timeout
+2024-09-30 00:00:00 INFO  [RequestID: sfelx8] Received GET /api/v1/products from IP 217.126.45.137
+2024-09-30 00:00:00 INFO  [RequestID: sfelx8] Status=200 OK | Method=GET | Endpoint=/api/v1/products | ResponseTime=274ms | ResponseSize=410KB
+2024-09-30 00:00:00 INFO  [RequestID: 0xaukt] Received PATCH /api/v1/orders/18/status from IP 140.216.88.43
+2024-09-30 00:00:00 ERROR [RequestID: 0xaukt] Status=403 Forbidden | Method=PATCH | Endpoint=/api/v1/orders/18/status | ResponseTime=66ms | Error=r
+2024-09-30 00:00:00 INFO  [RequestID: iw0tce] Received GET /api/v1/orders/18/status from IP 201.242.150.247
+2024-09-30 00:00:00 ERROR [RequestID: iw0tce] Status=401 Unauthorized | Method=GET | Endpoint=/api/v1/orders/18/status | ResponseTime=428ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: fvoeth] Received PUT /api/v1/orders/18/status from IP 112.249.239.59
+2024-09-30 00:00:00 INFO  [RequestID: fvoeth] Status=200 OK | Method=PUT | Endpoint=/api/v1/orders/18/status | ResponseTime=336ms | ResponseSize=140KB
+2024-09-30 00:00:00 INFO  [RequestID: d2mkn9] Received DELETE /api/v1/products from IP 11.231.162.223
+2024-09-30 00:00:00 ERROR [RequestID: d2mkn9] Status=401 Unauthorized | Method=DELETE | Endpoint=/api/v1/products | ResponseTime=480ms | Error=a
+2024-09-30 00:00:00 INFO  [RequestID: wb826n] Received GET /api/v1/orders/18/status from IP 158.11.38.104
+2024-09-30 00:00:00 ERROR [RequestID: wb826n] Status=403 Forbidden | Method=GET | Endpoint=/api/v1/orders/18/status | ResponseTime=430ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: ownl87] Received PUT /api/v1/orders from IP 189.227.220.211
+2024-09-30 00:00:00 ERROR [RequestID: ownl87] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/orders | ResponseTime=162ms | Error=I
+2024-09-30 00:00:00 INFO  [RequestID: 5exw3z] Received POST /api/v1/users from IP 64.132.4.101
+2024-09-30 00:00:00 ERROR [RequestID: 5exw3z] Status=500 Internal Server Error | Method=POST | Endpoint=/api/v1/users | ResponseTime=229ms | Error=Undefined method `name` for nil:NilClass
+2024-09-30 00:00:00 INFO  [RequestID: 9ihvlq] Received DELETE /api/v1/products from IP 210.31.3.147
+2024-09-30 00:00:00 ERROR [RequestID: 9ihvlq] Status=401 Unauthorized | Method=DELETE | Endpoint=/api/v1/products | ResponseTime=135ms | Error= 
+2024-09-30 00:00:00 INFO  [RequestID: 6wuy12] Received PATCH /api/v1/orders/18/status from IP 163.30.245.0
+2024-09-30 00:00:00 ERROR [RequestID: 6wuy12] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/orders/18/status | ResponseTime=286ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: wdnbpz] Received POST /api/v1/products from IP 40.25.179.205
+2024-09-30 00:00:00 ERROR [RequestID: wdnbpz] Status=403 Forbidden | Method=POST | Endpoint=/api/v1/products | ResponseTime=319ms | Error=P
+2024-09-30 00:00:00 INFO  [RequestID: yy8if4] Received POST /api/v1/orders/18/status from IP 58.111.84.151
+2024-09-30 00:00:00 ERROR [RequestID: yy8if4] Status=401 Unauthorized | Method=POST | Endpoint=/api/v1/orders/18/status | ResponseTime=206ms | Error=e
+2024-09-30 00:00:00 INFO  [RequestID: jcfrnt] Received DELETE /api/v1/users from IP 205.233.104.101
+2024-09-30 00:00:00 INFO  [RequestID: jcfrnt] Status=200 OK | Method=DELETE | Endpoint=/api/v1/users | ResponseTime=420ms | ResponseSize=156KB
+2024-09-30 00:00:00 INFO  [RequestID: aczd2e] Received PATCH /api/v1/products from IP 153.65.68.185
+2024-09-30 00:00:00 ERROR [RequestID: aczd2e] Status=401 Unauthorized | Method=PATCH | Endpoint=/api/v1/products | ResponseTime=414ms | Error=v
+2024-09-30 00:00:00 INFO  [RequestID: 3be7tw] Received PATCH /api/v1/users from IP 20.181.220.53
+2024-09-30 00:00:00 INFO  [RequestID: 3be7tw] Status=200 OK | Method=PATCH | Endpoint=/api/v1/users | ResponseTime=214ms | ResponseSize=454KB
+2024-09-30 00:00:00 INFO  [RequestID: 4gmtr8] Received PUT /api/v1/orders/18/status from IP 163.141.152.95
+2024-09-30 00:00:00 ERROR [RequestID: 4gmtr8] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/orders/18/status | ResponseTime=141ms | Error=v
+2024-09-30 00:00:00 INFO  [RequestID: g2mm2s] Received PUT /api/v1/orders/18/status from IP 195.143.171.140
+2024-09-30 00:00:00 ERROR [RequestID: g2mm2s] Status=401 Unauthorized | Method=PUT | Endpoint=/api/v1/orders/18/status | ResponseTime=225ms | Error=i
+2024-09-30 00:00:00 INFO  [RequestID: dbcczz] Received PATCH /api/v1/users from IP 81.139.174.253
+2024-09-30 00:00:00 ERROR [RequestID: dbcczz] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/users | ResponseTime=192ms | Error=Validation error: Missing required field 'email'
+2024-09-30 00:00:00 INFO  [RequestID: 3et2bs] Received PATCH /api/v1/users from IP 116.8.26.158
+2024-09-30 00:00:00 INFO  [RequestID: 3et2bs] Status=200 OK | Method=PATCH | Endpoint=/api/v1/users | ResponseTime=94ms | ResponseSize=463KB
+2024-09-30 00:00:00 INFO  [RequestID: 3nubdg] Received DELETE /api/v1/auth/login from IP 43.204.43.135
+2024-09-30 00:00:00 ERROR [RequestID: 3nubdg] Status=403 Forbidden | Method=DELETE | Endpoint=/api/v1/auth/login | ResponseTime=420ms | Error=e
+2024-09-30 00:00:00 INFO  [RequestID: 6dux6q] Received GET /api/v1/auth/login from IP 100.168.141.239
+2024-09-30 00:00:00 ERROR [RequestID: 6dux6q] Status=403 Forbidden | Method=GET | Endpoint=/api/v1/auth/login | ResponseTime=289ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: 6n8t1l] Received POST /api/v1/users from IP 49.104.173.237
+2024-09-30 00:00:00 ERROR [RequestID: 6n8t1l] Status=403 Forbidden | Method=POST | Endpoint=/api/v1/users | ResponseTime=249ms | Error= 
+2024-09-30 00:00:00 INFO  [RequestID: wuy9kb] Received POST /api/v1/users from IP 214.199.245.48
+2024-09-30 00:00:00 ERROR [RequestID: wuy9kb] Status=403 Forbidden | Method=POST | Endpoint=/api/v1/users | ResponseTime=323ms | Error=f
+2024-09-30 00:00:00 INFO  [RequestID: rflno5] Received POST /api/v1/users from IP 165.170.251.152
+2024-09-30 00:00:00 ERROR [RequestID: rflno5] Status=500 Internal Server Error | Method=POST | Endpoint=/api/v1/users | ResponseTime=364ms | Error=Database connection timeout
+2024-09-30 00:00:00 INFO  [RequestID: udblr1] Received DELETE /api/v1/products from IP 182.144.0.232
+2024-09-30 00:00:00 ERROR [RequestID: udblr1] Status=403 Forbidden | Method=DELETE | Endpoint=/api/v1/products | ResponseTime=297ms | Error=s
+2024-09-30 00:00:00 INFO  [RequestID: q32ale] Received PATCH /api/v1/orders/18/status from IP 223.85.85.162
+2024-09-30 00:00:00 ERROR [RequestID: q32ale] Status=401 Unauthorized | Method=PATCH | Endpoint=/api/v1/orders/18/status | ResponseTime=118ms | Error=i
+2024-09-30 00:00:00 INFO  [RequestID: th25e5] Received PATCH /api/v1/products from IP 240.11.39.77
+2024-09-30 00:00:00 ERROR [RequestID: th25e5] Status=401 Unauthorized | Method=PATCH | Endpoint=/api/v1/products | ResponseTime=59ms | Error=l
+2024-09-30 00:00:00 INFO  [RequestID: mvvovl] Received PATCH /api/v1/auth/login from IP 50.232.1.73
+2024-09-30 00:00:00 ERROR [RequestID: mvvovl] Status=500 Internal Server Error | Method=PATCH | Endpoint=/api/v1/auth/login | ResponseTime=207ms | Error=Unhandled exception: NoMethodError in OrdersController#update_status
+2024-09-30 00:00:00 INFO  [RequestID: wazimv] Received GET /api/v1/orders/18/status from IP 193.244.11.153
+2024-09-30 00:00:00 ERROR [RequestID: wazimv] Status=403 Forbidden | Method=GET | Endpoint=/api/v1/orders/18/status | ResponseTime=288ms | Error= 
