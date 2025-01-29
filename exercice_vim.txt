@@ -1,0 +1,12 @@
+Bienvenue sur Vim !   
+
+Il s'agit d'un txt qui contient plusieeurs erreurs.
+Certaines lignes sont inutiles et doivent être suprimées.
+
+Déplacer vous ici et corrigez cette liGne.
+
+Avez-vous remarquer cette faute aussi ?
+
+Vous devez rempalcer ce mot : incorrecte -> correcte.
+
+Dernière étape : supprimer cette ligne entièrement.
